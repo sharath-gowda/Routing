@@ -1,0 +1,27 @@
+
+u{
+ color:red   
+}
+.kar{
+    text-align: center;
+        text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: inline-block;
+     
+}
+.one{
+    margin-left: 150px;
+    padding-top: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.wiki{
+    margin-left: 150px;
+}
+.two{
+    margin-left: 30px;
+}
+hr{
+   border:solid black;
+    width:78%
+}

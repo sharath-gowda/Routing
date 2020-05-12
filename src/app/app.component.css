@@ -1,0 +1,41 @@
+.navbar-brand{
+    font-size: 2.5rem;
+    color:white;
+    margin-left: 10px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    margin-left: 60px;
+    
+}
+.form-inline{
+    margin-right: 10px;
+}
+h1{
+    padding-top: 30px;
+}
+.router{
+    
+    font-size: 1.5rem;
+   position:absolute;
+   padding-top: 30px;
+ 
+  
+   margin-left:20px
+
+}
+a{
+    text-decoration: none;
+color: black;
+   
+}
+a:hover{
+    color:blue
+}
+footer a{
+    color:white
+}
+
+
+
+
